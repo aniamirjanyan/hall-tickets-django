@@ -1,0 +1,1 @@
+# hall-tickets-django
